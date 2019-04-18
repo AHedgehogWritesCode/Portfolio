@@ -1,6 +1,6 @@
 # Bryan Scholz 
+
 ##Technical Communications
-###Local 16 hack, polyglot, polymath and polytech.
 
 ## SDKs / APIs / Architecture / Design
 [EA Authoring SDK](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/Auth_Ident_SDK_v1.0_KEN HOLTMAN.pdf)  
@@ -39,13 +39,4 @@
 * [Ooyala Player v4 Integration Guide](ooyala-pbv4.pdf)
 * [BEA WebLogic Integration - Introducing Application Integration](bea-application-integration-intro.pdf)
 * [BEA Designing Bea WebLogic Integration Solutions](bea-design.pdf)
-* [BEA WebLogic Enterprise - Using the WebLogic Enterprise EJB Deployer](bea-ejb-gui.pdf)
-* [BEA Liquid Data - Product Overview](bea-liquid-data-overview.pdf)
-* [BEA Liquid Data - Administration Guide](bea-liquid-data-admin.pdf)
-* [BEA Liquid Data - Deploying Liquid Data](bea-liquid-data-deploy.pdf)
-* [BEA Liquid Data - Creating the Presentation Layer](bea-liquid-data-present.pdf)
-* [BEA Trading Partner Integration - Introducing Trading Partner Integration](bea-trading-partner-intro.pdf)
-* [BEA Trading Partner Integration - Tutorials for Trading Partner Integration](bea-trading-partner-tutorial.pdf)
-* [BEA WebLogic Enterprise - Scaling, Distributing, and Tuning Applications](bea-tune-scale.pdf)
-* [BEA WebLogic Integration - Designing BEA WebLogic Integration Solutions](bea-webLogic-integration-design.pdf)
-* [BEA WebLogic Integration - Deploying BEA WebLogic Integration Solutions](bea-weblogic-integration-deploy.pdf)
+
