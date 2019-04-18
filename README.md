@@ -2,7 +2,7 @@
 ##Technical Communications
 ###Local 16 hack, polyglot, polymath and polytech.
 
-### SDKs / APIs / Architecture / Design
+## SDKs / APIs / Architecture / Design
 [EA Authoring SDK](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/Auth_Ident_SDK_v1.0_KEN HOLTMAN.pdf)  
 [EA Architectural Overview](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/EA.com Archectural Overview_v1.pdf)  
 [EA Platform Requirements](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/EA.com Platform Requirements_v1.pdf)  
@@ -11,20 +11,15 @@
 [eHarlequin Admin](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/eHarlequin Administration_v1.0.pdf)  
 [Cisco Historical Reports](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/hr.pdf)  
 
-### Instruction / User Manuals / How to Guides
+## Instruction / User Manuals / How to Guides
 [Cisco  Quick Start Guide](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/cadquick.pdf)  
 [Skanska Electrical and Communications (from Swedish)](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/Skanska_El- och telesystem.pdf)  
 
-### Design / Education
+## Design / Education
 [Physics Educational Software](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/Genius Unternehmen Physik4.tiff)  
 
-### Video / Multimedia
+## Video / Multimedia
 [Liberty Tub TV - episode debt as Slavery](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/LibertyTubeTV2.jpg)  
-
-
-# Portfolio for Ivory Development Group, Inc.
-
-For recent examples, see [www.ivorydev.com/portfolio.html](http://www.ivorydev.com/portfolio.html).
 
 ## <a id='dev'></a>Developer Documentation
 
