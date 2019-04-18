@@ -1,6 +1,6 @@
 # Bryan Scholz 
-Technical Communications
-Local 16 hack, polyglot, polymath and polytech.
+##Technical Communications
+###Local 16 hack, polyglot, polymath and polytech.
 
 ### SDKs / APIs / Architecture / Design
 [EA Authoring SDK](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/Auth_Ident_SDK_v1.0_KEN HOLTMAN.pdf)  
@@ -13,11 +13,11 @@ Local 16 hack, polyglot, polymath and polytech.
 
 ### Instruction / User Manuals / How to Guides
 [Cisco  Quick Start Guide](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/cadquick.pdf)  
-[Skanska Electrical and Communications](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/Skanska_El- och telesystem.pdf)  
+[Skanska Electrical and Communications (from Swedish)](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/Skanska_El- och telesystem.pdf)  
 
 ### Design / Education
 [Physics Educational Software](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/Genius Unternehmen Physik4.tiff)  
 
 ### Video / Multimedia
-[Liberty Tub TV](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/LibertyTubeTV2.jpg)  
+[Liberty Tub TV - episode debt as Slavery](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/LibertyTubeTV2.jpg)  
 
