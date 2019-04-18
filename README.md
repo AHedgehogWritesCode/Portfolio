@@ -1,6 +1,6 @@
-# Bryan Scholz Portfolio - Technical Communications
-Just a quick text run
-Local 16 hack. polyglot, polymath and polytech.
+# Bryan Scholz 
+Technical Communications
+Local 16 hack, polyglot, polymath and polytech.
 
 SDKs / APIs / Architecture / Design
 [EA Authoring SDK](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/Auth_Ident_SDK_v1.0_KEN HOLTMAN.pdf)
