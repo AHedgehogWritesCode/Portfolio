@@ -1,6 +1,6 @@
 # Bryan Scholz 
 
-##Technical Communications
+## Technical Communications  
 
 ## SDKs / APIs / Architecture / Design
 [EA Authoring SDK](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/Auth_Ident_SDK_v1.0_KEN HOLTMAN.pdf)  
