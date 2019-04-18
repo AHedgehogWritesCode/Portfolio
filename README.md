@@ -1,10 +1,10 @@
 # Bryan Scholz 
-Technical Communications
-Local 16 hack, polyglot, polymath and polytech.
+> Technical Communications
+> Local 16 hack, polyglot, polymath and polytech.
 
-SDKs / APIs / Architecture / Design
-[EA Authoring SDK](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/Auth_Ident_SDK_v1.0_KEN HOLTMAN.pdf)
-[EA Architectural Overview](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/EA.com Archectural Overview_v1.pdf)
+> SDKs / APIs / Architecture / Design
+> [EA Authoring SDK](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/Auth_Ident_SDK_v1.0_KEN HOLTMAN.pdf)
+> [EA Architectural Overview](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/EA.com Archectural Overview_v1.pdf)
 [EA Platform Requirements](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/EA.com Platform Requirements_v1.pdf)
 [EA Player Matching SDK](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/Matchmaker_SDK_v1.0.pdf)
 [Presage Studios Design Requirements](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/Presage Studios MAT8_Design_Document.pdf)
