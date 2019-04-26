@@ -9,12 +9,12 @@
 [EA Platform Requirements](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/EA.com Platform Requirements_v1.pdf)  
 [EA Player Matching SDK](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/Matchmaker_SDK_v1.0.pdf)  
 [Presage Studios Design Requirements](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/Presage Studios MAT8_Design_Document.pdf)  
-[eHarlequin Admin](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/eHarlequin Administration_v1.0.pdf)  
+[eHarlequin Admin](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/eHarlequin_Administration_v1.0.pdf)  
 [Cisco Historical Reports](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/hr.pdf)  
 
 ## Instruction / User Manuals / How to Guides
 [Cisco  Quick Start Guide](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/cadquick.pdf)  
-[Skanska Electrical and Communications (from Swedish)](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/Skanska_El- och telesystem.pdf)  
+[Skanska Electrical and Communications(from Swedish)](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/Skanska_El- och telesystem.pdf)  
 
 ## Design / Education
 [Physics Educational Software](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/Genius Unternehmen Physik4.tiff)  
