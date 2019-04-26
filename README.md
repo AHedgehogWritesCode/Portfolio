@@ -2,19 +2,29 @@
 
 ## Technical Communications  
 
-## SDKs / APIs / Architecture / Design 
-* [eHarlequin Admin](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/eHarlequin_Administration_v1.0.pdf)  
-* [Cisco Historical Reports](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/hr.pdf)  
+## <a id='dev'></a>SDKs / APIs / Architecture 
+* [Cisco Historical Reports](Cisco_CRA_hr.pdf)  
 
-## Instruction / User Manuals / How to Guides
-[Cisco  Quick Start Guide](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/cadquick.pdf)  
-[Skanska Electrical and Communications(from Swedish)](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/Skanska_El- och_telesystem.pdf)  
+## <a id='int'>Instruction / User Manuals / How to Guides
+* [Cisco Quick Start Guide](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/Cisco_CRA_cadquick.pdf)  
 
-## Design / Education
-[Physics Educational Software](https://github.com/AHedgehogWritesCode/Portfolio/blob/master/Genius_Unternehmen_Physik4.tiff)  
+## <a id='des'>Design / Usability
+* [Cisco Glossery Connection](Cisco_CGC.jpg)
+* [Duke Climate Change Policy Partnership Website](Duke_CCCP.tiff)  
+* [Duke Dictionary of Art HIstorians]()  
 
-## Video / Multimedia
-[Liberty Tub TV - episode debt as Slavery](LibertyTubeTV2.jpg)  
+## <a id='lan'>Science / Medicine / Education (Multilingual)
+* [Babbel Reference 8 Languages](Babbel_Referenz_A.Scholz_8_Languages.pdf)
+* [Skanska Electrical and Communications(from Swedish)](Skanska_Elo_ch_telesystem.pdf)  
+* [Physics Educational Software](Cornelsen_Genius_Unternehmen_Physik3.jpg)
+
+## <a id='vid'>Video / Commercial
+* [Liberty Tube TV - episode Debt as Slavery](LibertyTubeTV2.jpg)
+* [Commercial Lawson for Congress](LawsonforCongress3.jpg)
+* [Taking the Pulse](TakingthePulse2.jpg)
+  
+  
+  
 
 ## <a id='dev'></a>Developer Documentation
 
