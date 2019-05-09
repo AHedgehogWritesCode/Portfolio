@@ -6,9 +6,7 @@
 * [Cisco Historical Reports](Cisco_CRA_hr.pdf)
 * [Cisco Release Notes](Cisco_CRA_30crsrn.pdf)  
 * [Cisco Installation Guide](Cisco_CRA_gspref.pdf)
-* [EA Architectural Ovewrview](EA_Archectural_Overview.v1.0.pdf)
-* [EA Auth Auth IDent SDK](EA_Auth_Auth_IdentSDKv1.0.pdf)
-* [EA Matchmaker SDK](EA_Matchmaker_SDK_v1.0.pdf)  
+* [EA Architectural Overview](EA_Archectural_Overview.v1.0.pdf) 
 * [EA Platform Requirements](EA_Platform_Requirements.v1.0.pdf)  
 * [Presage Design Document](Presage_MAT8_Design_Document.pdf)
 * [Quis Internationalization Proces](Quios_CVS_v1.1x.pdf)
@@ -23,11 +21,6 @@
 
 ## Multi Media / Design / Education 
   
-## <a id='int'>Book Design / Authorship
-* [Climate Book](Duke_CCPP_ClimateBook.pdf)
-* [Little Book of Porteño](Little_Book_of_Porteno.jpg)
-* [Earth Artists](EarthArtists.jpg)  
-  
 ## <a id='lan'>Science / Engineering / Education (Multilingual)
 * [Babbel Reference 8 Languages (Education SW from 8 European languages)](Babbel_Referenz_A.Scholz_8_Languages.pdf)
 * [Skanska Electrical and Communications (from Swedish)](Skanska_Elo_ch_telesystem.pdf)  
@@ -35,6 +28,11 @@
 * [Patient Medical Records (from Danish)](Danish_Medical_report_003796.pdf)  
 * [Maudit Menage / Djian (from French)](Maudit_menage__Djian_EN.pdf)
 * [Bread for the World Presentation (from Spanish)](OEDI_DDHH_Experiencias_BfdW_EN.pdf) 
+  
+## <a id='int'>Book Design / Authorship
+* [Climate Change and Policy Technology](Duke_CCPP_ClimateBook.pdf)
+* [Little Book of Porteño](Little_Book_of_Porteno.jpg)
+* [Earth Artists](EarthArtists.jpg)  
 
 ## <a id='des'>Website & App Design / Usability
 * [Wis You Social Media App Design](wisyou_mvp_20150927-ak.pdf)
