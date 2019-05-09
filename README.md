@@ -16,7 +16,7 @@
 * [Cisco Quick Start Guide](Cisco_CRA_sup_enhanced.pdf)
 * [Cisco Desktop User Guide](Cisco_CRA_deskuser.pdf)
 * [WDC Datebook Help Files](WDC_Datebook_Help_Files.pdf) 
-* [WDC USer Documentation](WDC_User_documentation_ver1x.pdf) 
+* [WDC User Documentation](WDC_User_documentation_ver1x.pdf) 
 
 
 ## Multi Media / Design / Education 
@@ -35,8 +35,8 @@
 * [Earth Artists](EarthArtists.jpg)  
 
 ## <a id='des'>Website & App Design / Usability
-* [Wis You Social Media App Design](wisyou_mvp_20150927-ak.pdf)
-* [Sally Ride Share App Design](sally_landing_pages.pdf)
+* [Wis You Social Media app design flow diagram](wisyou_mvp_20150927-ak.pdf)
+* [Sally Ride Share app design story board](sally_landing_pages.pdf)
 * [Cisco Glossery Connection](Cisco_CGC.jpg)
 * [Duke Climate Change Policy Partnership Website](Duke_CCCP.jpg)  
 * [Duke Dictionary of Art Historians](Duke_Dictionary_of_Art_Historians.jpg)  
