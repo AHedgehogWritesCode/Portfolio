@@ -31,7 +31,8 @@
 * [Skanska Electrical and Communications (from Swedish)](Skanska_Elo_ch_telesystem.pdf)  
 * [Physics Educational Software (from German)](Cornelsen_Genius_Unternehmen_Physik3.jpg)
 * [Patient Medical Records (from Danish)]()  
-* [Maudit Menage / Djian (from French)]()  
+* [Maudit Menage / Djian (from French)]()
+* [Bread for the World Presentation (from Spanish)]() 
 
 ## <a id='des'>Website & App Design / Usability
 * [Wis You Social Media App Design](wisyou_mvp_20150927-ak.pdf)
