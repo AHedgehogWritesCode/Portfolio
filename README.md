@@ -5,18 +5,20 @@
 ## <a id='dev'></a>SDKs / APIs / Architecture 
 * [Cisco Historical Reports](Cisco_CRA_hr.pdf)
 * [Cisco Release Notes](Cisco_CRA_30crsrn.pdf)  
-* [Cisco Installation Guide](Cisco_CRA_gspref.pdf)  
-* [EA Matchmaker SDK](EA_Matchmaker_SDK_v1.0.pdf)  
+* [Cisco Installation Guide](Cisco_CRA_gspref.pdf)
+* [EA Architectural Ovewrview](EA_Archectural_Overview.v1.0.pdf)
 * [EA Auth Auth IDent SDK](EA_Auth_Auth_IdentSDKv1.0.pdf)
-* [Presage Design Document]()
-* [Quis Internationalization Proces]()
-* [Quios Messanger]() 
+* [EA Matchmaker SDK](EA_Matchmaker_SDK_v1.0.pdf)  
+* [EA Platform Requirements](EA_Platform_Requirements.v1.0.pdf)  
+* [Presage Design Document](Presage_MAT8_Design_Document.pdf)
+* [Quis Internationalization Proces](Quios_CVS_v1.1x.pdf)
+* [Quios Messanger](Quios_Messengerx.pdf) 
 
 ## <a id='int'>Instruction / User Manuals / How to Guides
 * [Cisco Quick Start Guide](Cisco_CRA_sup_enhanced.pdf)
 * [Cisco Desktop User Guide](Cisco_CRA_deskuser.pdf)
-* [WDC Datebook Help Files]() 
-* [WDC USer Documentation]() 
+* [WDC Datebook Help Files](WDC_Datebook_Help_Files.pdf) 
+* [WDC USer Documentation](WDC_User_documentation_ver1x.pdf) 
 
 
 ## Multi Media / Design / Education 
@@ -30,9 +32,9 @@
 * [Babbel Reference 8 Languages (Education SW from 8 European languages)](Babbel_Referenz_A.Scholz_8_Languages.pdf)
 * [Skanska Electrical and Communications (from Swedish)](Skanska_Elo_ch_telesystem.pdf)  
 * [Physics Educational Software (from German)](Cornelsen_Genius_Unternehmen_Physik3.jpg)
-* [Patient Medical Records (from Danish)]()  
-* [Maudit Menage / Djian (from French)]()
-* [Bread for the World Presentation (from Spanish)]() 
+* [Patient Medical Records (from Danish)](Danish_Medical_report_003796.pdf)  
+* [Maudit Menage / Djian (from French)](Maudit_menage__Djian_EN.pdf)
+* [Bread for the World Presentation (from Spanish)](OEDI_DDHH_Experiencias_BfdW_EN.pdf) 
 
 ## <a id='des'>Website & App Design / Usability
 * [Wis You Social Media App Design](wisyou_mvp_20150927-ak.pdf)
