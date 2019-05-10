@@ -23,21 +23,22 @@
 ## Multi Media / Design / Education 
   
 ## <a id='int'>Book Design / Authorship
-* [Climate Change and Policy Technology (Edit & Design)](Duke_CCPP_ClimateBook.pdf)
-* [Little Book of Porteño (Authorship & Design - Part of Series)](Little_Book_of_Porteno.jpg)
-* [Earth Artists (Edit & Design)](EarthArtists.jpg)  
+* [Climate Change and Policy Technology](Duke_CCPP_ClimateBook.pdf) - Edit & Design
+* [Little Book of Porteño](Little_Book_of_Porteno.jpg) - Authorship & Design - Part of Series
+* [Earth Artists](EarthArtists.jpg) - Edit & Design
 
 ## <a id='des'>Website & App Design / Usability
-* [Wis You Social Media app design flow diagram](wisyou_mvp_20150927-ak.pdf)
-* [Sally Ride Share app design story board](sally_landing_pages.pdf)
-* [Cisco Glossery Connection] Design & Usability (Cisco_CGC.jpg)
-* [Duke Climate Change Policy Partnership Website (Design & Usability](Duke_CCCP.jpg)  Design & Usability
-* [Duke Dictionary of Art Historians (Design & Usability](Duke_Dictionary_of_Art_Historians.jpg)  
+* [Wis You Social Media app design flow diagram](wisyou_mvp_20150927-ak.pdf) - Design & Usability
+* [Sally Ride Share app design story board](sally_landing_pages.pdf) - Design & Usability
+* [Cisco Glossery Connection](Cisco_CGC.jpg) - Design & Production
+* [Duke Climate Change Policy Partnership Website](Duke_CCCP.jpg) - Design & Production
+* [Duke Dictionary of Art Historians](Duke_Dictionary_of_Art_Historians.jpg) - Design & Production
 
 ## <a id='vid'>Video / TV Production
-* [Liberty Tube TV - episode Debt as Slavery](LibertyTubeTV2.jpg)
-* [Commercial Lawson for Congress](LawsonforCongress3.jpg)
-* [Taking the Pulse](TakingthePulse2.jpg)
+* [Liberty Tube TV - episode Debt as Slavery](LibertyTubeTV2.jpg) - Script, Editing & Production - Part of Series
+* [Taking the Pulse](TakingthePulse2.jpg) - Script, Editing & Production - Part of Series
+* [Commercial Lawson for Congress](LawsonforCongress3.jpg) - Script, Editing & Production
+
 
 ## <a id='lan'>Science / Engineering / Education (Multilingual)
 * [Babbel Reference 8 Languages (Education SW from 8 European languages)](Babbel_Referenz_A.Scholz_8_Languages.pdf)
