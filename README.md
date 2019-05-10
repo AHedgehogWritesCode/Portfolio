@@ -10,7 +10,8 @@
 * [EA Platform Requirements](EA_Platform_Requirements.v1.0.pdf)
 * [EA Auth Auth SDK](EA_Auth_Auth_Ident_SDK.pdf)  
 * [Presage Design Document](Presage_MAT8_Design_Document.pdf)
-* [Quis Internationalization Proces](Quios_CVS_v1.1x.pdf)
+* [Quis CVS](Quios_CVS_v1.1x.pdf)
+* [Quis Internationalization Process](Quios_Internationalization_Process_v1.3x.pdf)
 * [Quios Messanger](Quios_Messengerx.pdf) 
 
 ## <a id='int'>Instruction / User Manuals / How to Guides
