@@ -24,14 +24,14 @@
   
 ## <a id='int'>Book Design / Authorship
 * [Climate Change and Policy Technology (Edit & Design)](Duke_CCPP_ClimateBook.pdf)
-* [Little Book of Porteño (Autorship & Design - Part of Series)](Little_Book_of_Porteno.jpg)
+* [Little Book of Porteño (Authorship & Design - Part of Series)](Little_Book_of_Porteno.jpg)
 * [Earth Artists (Edit & Design)](EarthArtists.jpg)  
 
 ## <a id='des'>Website & App Design / Usability
 * [Wis You Social Media app design flow diagram](wisyou_mvp_20150927-ak.pdf)
 * [Sally Ride Share app design story board](sally_landing_pages.pdf)
-* [Cisco Glossery Connection] (Design & Usability)(Cisco_CGC.jpg)
-* [Duke Climate Change Policy Partnership Website (Design & Usability](Duke_CCCP.jpg)  
+* [Cisco Glossery Connection] Design & Usability (Cisco_CGC.jpg)
+* [Duke Climate Change Policy Partnership Website (Design & Usability](Duke_CCCP.jpg)  Design & Usability
 * [Duke Dictionary of Art Historians (Design & Usability](Duke_Dictionary_of_Art_Historians.jpg)  
 
 ## <a id='vid'>Video / TV Production
