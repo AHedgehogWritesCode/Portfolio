@@ -11,7 +11,7 @@
 * [EA Auth Auth SDK](EA_Auth_Auth_Ident_SDK.pdf)  
 * [Presage Design Document](Presage_MAT8_Design_Document.pdf)
 * [Quis CVS](Quios_CVS_v1.1x.pdf)
-* [Quis Internationalization Process](Quios_Internationalization_Process_v1.3x.pdf)
+* [Quis Internationalization Process](Quios_Internationalization_Process_v1.3.pdf)
 
 ## <a id='int'>Instruction / User Manuals / How to Guides
 * [Cisco Quick Start Guide](Cisco_CRA_sup_enhanced.pdf)
