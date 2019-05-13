@@ -1,6 +1,7 @@
 # Bryan Scholz 
 
 ## Technical Communications  
+* [TechCom / Marcom Resume]((BAS_TW_S_20190510.pdf)
 
 ## <a id='dev'></a>SDKs / APIs / Architecture 
 * [Cisco Historical Reports](Cisco_CRA_hr.pdf)
