@@ -1,7 +1,7 @@
 # Bryan Scholz 
 
 ## Technical Communications  
-* [TechCom / Marcom Resume](BAS_TW_S_20190510.pdf)
+* [TechCom / MarCom Resume](BAS_TW_S_20190510.pdf) - Products that sell and APIs that sing
 
 ## <a id='dev'></a>SDKs / APIs / Architecture 
 * [Cisco Historical Reports](Cisco_CRA_hr.pdf)
