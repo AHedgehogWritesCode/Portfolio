@@ -42,9 +42,9 @@
 
 
 ## <a id='lan'>Science / Engineering / Education (Multilingual)
-* [Babbel Reference 8 Languages (Education SW from 8 European languages)](Babbel_Referenz_A.Scholz_8_Languages.pdf)
-* [Skanska Electrical and Communications (from Swedish)](Skanska_Elo_ch_telesystem.pdf)  
-* [Physics Educational Software (from German)](Cornelsen_Genius_Unternehmen_Physik3.jpg)
-* [Patient Medical Records (from Danish)](Danish_Medical_report_003796.pdf)  
-* [Maudit Menage / Djian (from French)](Maudit_menage__Djian_EN.pdf)
-* [Bread for the World Presentation (from Spanish)](OEDI_DDHH_Experiencias_BfdW_EN.pdf) 
+* [Babbel Reference 8 Languages](Babbel_Referenz_A.Scholz_8_Languages.pdf) - Education SW from 8 European languages
+* [Skanska Electrical and Communications](Skanska_Elo_ch_telesystem.pdf) - from Swedish
+* [Physics Educational Software](Cornelsen_Genius_Unternehmen_Physik3.jpg) - from German
+* [Patient Medical Records](Danish_Medical_report_003796.pdf) - from Danish
+* [Maudit Menage / Djian](Maudit_menage__Djian_EN.pdf) - from French
+* [Bread for the World Presentation](OEDI_DDHH_Experiencias_BfdW_EN.pdf) - from Spanish
